@@ -6,4 +6,4 @@ Select a specific Asian food:
 ## [Japanese](https://www.sukisushibrooklyn.com/)
 ## [Thai](https://topthaibayridgetogo.com/)
 ---
-Start Over
+[Start Over](asian.md)
