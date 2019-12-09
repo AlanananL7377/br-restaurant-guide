@@ -2,8 +2,8 @@
 ## Asian
 ---
 Select a specific Asian food:
-## [Chinese](https://www.brooklynpearlofchina.com/)
-## [Japanese](https://www.sukisushibrooklyn.com/)
-## [Thai](https://topthaibayridgetogo.com/)
+## [Chinese](chinese.md)
+## [Japanese](japanese.md)
+## [Thai](thai.md)
 ---
 [Start Over](../home.md)
