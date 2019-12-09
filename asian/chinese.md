@@ -9,4 +9,4 @@ Select a restaurant:
 ## [Spring Garden](https://www.springgardenbayridge.com/menu.aspx)
 ---
 [Back to Asian](asian.md)
-[Start Over](home.md)
+[Start Over](../home.md)

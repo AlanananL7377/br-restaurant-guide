@@ -9,4 +9,4 @@ Select a restaurant:
 ## [Sapporo](http://places.singleplatform.com/sapporo-7/menu?ref=google)
 ---
 [Back to Asian](asian.md)
-[Start Over](home.md)
+[Start Over](../home.md)
